@@ -1,2 +1,4 @@
 # Plumber-Website
-Plumber Website is made in Html, Scss, Bootstrap 4, JS and Slick Slider
+Plumber Website is made in Html, Scss, Bootstrap 4, JS and Slick Slider.
+Photos are complress.
+Website is responsive for all devices.
